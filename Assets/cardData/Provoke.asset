@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b6daad1b0843548b789bd9a96d85dc, type: 3}
+  m_Name: Provoke
+  m_EditorClassIdentifier: 
+  cardName: Provoke
+  cardType: 1
+  egoDmg: 5
+  healthDmg: 0
+  egoCost: 5
+  shieldAmnt: 0
+  cardSprite: {fileID: 21300000, guid: dd113ce89cb6c244fa6dce6fe7b024ef, type: 3}
